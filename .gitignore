@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+.idea/
+.cache/
+build/
+build-release/
+cmake-build-debug/
+out/
+*.ipch
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.dll

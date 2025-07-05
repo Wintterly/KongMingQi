@@ -1,3 +1,0 @@
-C:/Users/winter/Desktop/kongmingqi/build/CMakeFiles/KongMingQi.dir
-C:/Users/winter/Desktop/kongmingqi/build/CMakeFiles/edit_cache.dir
-C:/Users/winter/Desktop/kongmingqi/build/CMakeFiles/rebuild_cache.dir
