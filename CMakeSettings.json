@@ -1,0 +1,18 @@
+﻿{
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 20,
+        "patch": 0
+    },
+    "configurePresets": [
+        {
+            "name": "default",
+            "hidden": false,
+            "generator": "Ninja",
+            "cmakeExecutable": "C:/Program Files/CMake/bin/cmake.exe",
+            "binaryDir": "${sourceDir}/build",
+            "cacheVariables": { "CMAKE_EXPORT_COMPILE_COMMANDS": "YES" }
+        }
+    ]
+}

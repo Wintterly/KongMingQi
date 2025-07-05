@@ -1,0 +1,1 @@
+  -L"C:/Users/winter/Desktop/SFML-2.6.2/lib"  -lsfml-graphics-d -lsfml-window-d -lsfml-system-d -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,17 @@
+运行文件在build目录下：KongMingQi.exe
+
+已实现：
+棋盘和棋子
+当前剩余棋子数量
+鼠标操作棋子
+给出可以移动的位置提示
+复原棋盘按钮
+撤销上一步按钮
+游戏提示
+
+编译执行：
+cd build; & 'C:\Program Files\CMake\bin\cmake.exe' .. -G 'MinGW Makefiles'; & 'C:\Program Files\mingw64\bin\mingw32-make.exe'
+后在build目录生成KongMingQi.exe，但是此时不能在无C++环境下运行
+想要在无C++环境下运行，除了已经添加的SFML的dll文件外，还需添加libgcc_s_seh-1.dll，libstdc++-6.dll，libwinpthread-1.dll三个依赖，否则会提示缺少依赖
+
+项目用到的图形化库为SFML
